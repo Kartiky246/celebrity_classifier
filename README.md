@@ -17,7 +17,7 @@ The UI for this web app is shown below
 
 
 
-![](project1/images/1.png)
+![](images/1.png)
 
 
 
